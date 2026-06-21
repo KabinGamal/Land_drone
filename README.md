@@ -1,5 +1,3 @@
-# Land_drone
-
 #  Bluetooth Controlled Land Drone Using 8051 Microcontroller
 
 ##  Project Overview
